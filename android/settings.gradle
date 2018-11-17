@@ -1,0 +1,3 @@
+rootProject.name = 'Ceshi'
+
+include ':app'
